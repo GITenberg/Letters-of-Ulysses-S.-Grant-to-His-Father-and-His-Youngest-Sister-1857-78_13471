@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '31369'
     url: http://www.gutenberg.org/2009/agents/31369
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13471#Letters-of-Ulysses-S.-Grant-to-His-Father-and-His-Youngest-Sister-1857-78
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
 identifiers:
