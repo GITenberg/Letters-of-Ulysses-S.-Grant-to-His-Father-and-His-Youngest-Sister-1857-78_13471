@@ -1,0 +1,39 @@
+_repo: Letters-of-Ulysses-S.-Grant-to-His-Father-and-His-Youngest-Sister-1857-78_13471
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grant, Ulysses S. (Ulysses Simpson)
+    aliases:
+    - Grant, U. S. (Ulysses Simpson)
+    - Grant, Hiram Ulysses
+    - United States President (1869-1877)
+    birthdate: 1822
+    deathdate: 1885
+    gutenberg_agent_id: '527'
+    url: http://www.gutenberg.org/2009/agents/527
+    wikipedia: http://en.wikipedia.org/wiki/Ulysses_S._Grant
+  editor:
+    agent_name: Cramer, Jesse Grant
+    alias: Cramer, J. Grant (Jesse Grant)
+    birthdate: 1869
+    gutenberg_agent_id: '31369'
+    url: http://www.gutenberg.org/2009/agents/31369
+description: ''
+gutenberg_issued: '2004-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13471'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Correspondence'
+- !lcsh 'Generals -- United States -- Correspondence'
+- !lcc 'E660'
+- !lcsh 'Grant, Ulysses S. (Ulysses Simpson), 1822-1885 -- Correspondence'
+title: Letters of Ulysses S. Grant to His Father and His Youngest Sister, 1857-78
+url: http://www.gutenberg.org/ebooks/13471
